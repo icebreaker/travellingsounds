@@ -8,8 +8,7 @@ This *demo* wouldn't be possible without the following *resources*
 licensed under the *creative commons: attribution* license.
 
 #### Music
-[Travelling Sounds](https://soundcloud.com/mbull-1/travelling-sounds) by
-[Mbull](https://soundcloud.com/mbull-1)
+* [Travelling Sounds](https://soundcloud.com/mbull-1/travelling-sounds) by [Mbull](https://soundcloud.com/mbull-1)
 
 #### Graphics
 * http://openstocknetwork.deviantart.com/art/City-Square-Landscape-299414711
