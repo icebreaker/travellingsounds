@@ -115,10 +115,10 @@ TS.Loader.prototype =
 
     ctx.save();
     ctx.fillStyle = "#FFFFFF";
-    ctx.fillRect(this.x + this.m, this.y + this.m, ((this.loaded * (this.w - this.dm)) / this.total), this.h - this.dm);
+    ctx.fillRect(x + this.m, y + this.m, ((this.loaded * (this.w - this.dm)) / this.total), this.h - this.dm);
     ctx.lineWidth = 0.5;
     ctx.strokeStyle = "#FFFFFF";
-    ctx.strokeRect(this.x, this.y, this.w, this.h);
+    ctx.strokeRect(x, y, this.w, this.h);
     ctx.restore();
   }
 };
