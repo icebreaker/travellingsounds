@@ -1,0 +1,13 @@
+body
+{
+	margin: 45 auto;
+	padding: 0;
+	width: 1024px;
+	height: 480px;
+	background-color: #000000;
+}
+
+canvas
+{
+	background-color: #000000;
+}
